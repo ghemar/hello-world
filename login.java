@@ -1,8 +1,9 @@
 public class login
 {
-     public static void main 
+     public static void main(string arg[]) 
       lksdf;k
-
-
+      {
+      
+      }
 
 }
