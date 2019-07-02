@@ -1,2 +1,2 @@
 # hello-world
-for practice perpouse
+this is just for practice bla balbla bla bla 
