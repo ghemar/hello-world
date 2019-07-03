@@ -1,19 +1,10 @@
 public class login
 {
      public static void main(string arg[]) 
-      lksdf;k
+      int a=10:
       {
-<<<<<<< HEAD
-     iasfafafasas
-      dg
-
-      dg
-      sdg
-
-=======
-     dsfsdf
-	     dfdf
+	      print ln "a"
       }
->>>>>>> 9e2578e35c8ddfb38a4afe902cd48f9af780cfc9
+
 
 }
