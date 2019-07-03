@@ -1,10 +1,10 @@
 public class login
 {
      public static void main(string arg[]) 
-      lksdf;k
+      int a=20:
       {
-     dsfsdf
-	     dfdf
+      ptint ln "a"
+	      
       }
 
 }
