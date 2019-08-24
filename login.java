@@ -2,7 +2,7 @@ public class login
 {
      public static void main(string arg[]) 
 <<<<<<< HEAD
-      int a=20:
+      int a=30:
       {
 	      print ln "a"
 =======
